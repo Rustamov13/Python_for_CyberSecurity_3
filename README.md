@@ -66,7 +66,7 @@ pip install requests beautifulsoup4
 python amazon_price_tracker.py
 ```
 
-##After running the script:
+## After running the script:
 
-The product price will be displayed in the console
-The price history will be saved in amazon_price_history.json
+1. The product price will be displayed in the console
+2. The price history will be saved in amazon_price_history.json
