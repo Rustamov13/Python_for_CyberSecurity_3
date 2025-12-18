@@ -72,8 +72,8 @@ python amazon_price_tracker.py
 
 ## After running the script:
 
-1. The product price will be displayed in the console
-2. The price history will be saved in amazon_price_history.json
+* The product price will be displayed in the console
+* The price history will be saved in amazon_price_history.json
 
 ### Sample Output
 
@@ -86,7 +86,7 @@ Saved to: amazon_price_history.json
 
 ## Important Notes
 
-1. Amazon may block automated requests using CAPTCHA
-2. If this happens, the script may not retrieve the price
-3. For long-term or production use, official APIs such as the Amazon Product Advertising API are recommended
+* Amazon may block automated requests using CAPTCHA
+* If this happens, the script may not retrieve the price
+* For long-term or production use, official APIs such as the Amazon Product Advertising API are recommended
 
