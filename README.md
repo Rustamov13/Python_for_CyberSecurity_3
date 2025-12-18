@@ -58,10 +58,15 @@ Each time the script is executed, a new entry is added to the price history file
 ```bash
 pip install requests beautifulsoup4
 
+``` 
 
-### How to Run
-
-Run the script using the following command:
+### Run the script
 
 ```bash
 python amazon_price_tracker.py
+```
+
+##After running the script:
+
+The product price will be displayed in the console
+The price history will be saved in amazon_price_history.json
