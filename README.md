@@ -30,11 +30,11 @@ This project is created for educational and laboratory purposes.
 
 ## Project Structure
 
--Python_for_CyberSecurity_3/
--│
--├── amazon_price_tracker.py
--├── amazon_price_history.json
--└── README.md
+- Python_for_CyberSecurity_3/
+- │
+- ├── amazon_price_tracker.py
+- ├── amazon_price_history.json
+- └── README.md
 
 
 ---
